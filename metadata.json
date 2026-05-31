@@ -1,0 +1,6 @@
+{
+  "name": "VitalOSS",
+  "description": "An open-source auditing tool generating Health Scores based on project activity, documentation, and responsiveness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
